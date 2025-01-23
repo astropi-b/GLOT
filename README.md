@@ -1,6 +1,6 @@
-# Gauribidanur radio observatory LPDA array Observation Tool (GLOT)
 
-# Innovative Web Tool for Remote Data Acquisition and Analysis
+
+# Innovative Web Tool for Remote Data Acquisition and Analysis (GLOT):
 
 ### Customized for SKA Low-Frequency Beamforming Test Bed LPDA Array at Gauribidanur Radio Observatory
 
